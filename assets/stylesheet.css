@@ -6795,6 +6795,12 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .work-under-header .work-item img {
   height: 100%;
   -o-object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: -webkit-fill-available;
+  max-height: 100%;
+  object-fit: contain !important;
   object-fit: cover;
 }
 
