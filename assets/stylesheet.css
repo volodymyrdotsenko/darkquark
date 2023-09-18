@@ -12592,3 +12592,9 @@ footer .copyright-social ul li:last-child {
   .bigger_img{
    transform: scale(1.3);
   }
+
+
+  .pro-text h4 {
+    font-size: 50px;
+    color: #dd9a3c;
+}
