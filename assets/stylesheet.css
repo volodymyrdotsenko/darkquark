@@ -12572,3 +12572,10 @@ footer .copyright-social ul li:last-child {
 .loader_d{
   width: 20%;
 }
+.lang{
+  top: 100px;right: 25px;position:absolute;
+}
+.lang_a{
+      font-size: 2rem;
+
+}
