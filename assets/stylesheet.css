@@ -12580,3 +12580,6 @@ footer .copyright-social ul li:last-child {
 .lang>a, .lang>span {
     font-size: 2rem;
 }
+
+ .title-text-header-inner {
+  width: 50%;}
