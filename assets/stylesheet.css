@@ -1540,8 +1540,20 @@ body > * {
     padding-left: 30px;
   }
 }
-
+.lang{
+  display: inline-block;
+  position: absolute;
+  right: 5vw;
+  top: 15vh;
+}
 @media only screen and (max-width: 575px) {
+  .lang{
+      position: absolute;
+    float: right;
+    padding-top: 1em;
+    font-size: 19px;
+    padding-left: 8em;
+}
   .container {
     padding-right: 15px;
     padding-left: 15px;
@@ -12565,17 +12577,6 @@ footer .copyright-social ul li:last-child {
 .v-light .caption {
   color: #000;
 }
-.loader_q{
-  width: 30%;
-}
-
-.loader_d{
-  width: 20%;
-}
-.lang{
-  top: 100px;right: 25px;position:absolute;
-}
-.lang_a{
-      font-size: 2rem;
-
+.lang>a, .lang>span {
+    font-size: 2rem;
 }
