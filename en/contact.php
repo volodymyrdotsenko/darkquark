@@ -18,12 +18,12 @@
    
     <link rel="stylesheet" type="text/css" href="MyFontsWebfontsKit.css">
 
-    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
-    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="./assets/img/favicon.ico" type="image/x-icon" />
 
     <!-- custom styles (optional) -->
     <link href="./assets/plugins.css" rel="stylesheet" />
-    <link href="/assets/stylesheet.css" rel="stylesheet" />
+    <link href="./assets/stylesheet.css" rel="stylesheet" />
 
 
 </head>
@@ -34,9 +34,9 @@
         <div class="preloader-after"></div>
         <div class="preloader-before"></div>
         <div class="preloader-block">
-            <div class="title"><img src="/assets/img/dark.png"style="width: 20%;"></div>
+            <div class="title"><img src="./assets/img/dark.png"style="width: 20%;"></div>
             <div class="percent">0</div>
-            <div class="loading"><img src="/assets/img/quark.png"style="width: 30%;"></div>
+            <div class="loading"><img src="./assets/img/quark.png"style="width: 30%;"></div>
 
         </div>
         <div class="preloader-bar">
@@ -51,8 +51,8 @@
                 <div class="inner-header">
                     <div class="main-logo">
                         <a href="index.html">
-<!--                             <img class="dark-logo" src="/assets/img/logo-dark.png" alt="" />
- -->                            <img class="light-logo" src="/assets/img/dq_bw.png" alt="" />
+<!--                             <img class="dark-logo" src="./assets/img/logo-dark.png" alt="" />
+ -->                            <img class="light-logo" src="./assets/img/dq_bw.png" alt="" />
                         </a>
                     </div>
                 </div>
@@ -71,8 +71,8 @@
             <div class="header-container">
                 <div class="logo main-logo">
                     <a href="index.html">
-<!--                         <img class="dark-logo" src="/assets/img/logo-dark.png" alt="" />
- -->                        <img class="light-logo" src="/assets/img/dq_bw.png" alt="" />
+<!--                         <img class="dark-logo" src="./assets/img/logo-dark.png" alt="" />
+ -->                        <img class="light-logo" src="./assets/img/dq_bw.png" alt="" />
                     </a>
                 </div>
 
@@ -101,7 +101,7 @@
                 <div class="nav-content">
                     <div class="inner-content">
                         <address class="v-middle">
-                            <span><img class="light-logo" src="/assets/img/logo.png" alt=""></span>
+                            <span><img class="light-logo" src="./assets/img/logo.png" alt=""></span>
                         </address>
                     </div>
 
@@ -189,7 +189,7 @@ try {
                             <div class="col-md-3 dsn-col-footer">
                                 <div class="footer-block">
                                     <div class="footer-logo">
-                                        <a href=""><img src="/assets/img/dq_fotter.png" style="position:absolute;"></a>
+                                        <a href=""><img src="./assets/img/dq_fotter.png" style="position:absolute;"></a>
                                     </div>
 
                                 </div>
@@ -278,10 +278,10 @@ try {
     <!-- End cursor -->
 
     <!-- Optional JavaScript -->
-    <script src="/assets/js/jquery-3.1.1.min.js"></script>
-    <script src="/assets/js/plugins.js"></script>
-    <script src="/assets/js/dsn-grid.js"></script>
-    <script src="/assets/js/custom.js"></script>
+    <script src="./assets/js/jquery-3.1.1.min.js"></script>
+    <script src="./assets/js/plugins.js"></script>
+    <script src="./assets/js/dsn-grid.js"></script>
+    <script src="./assets/js/custom.js"></script>
 </body>
 
 </html>
