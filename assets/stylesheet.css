@@ -12565,3 +12565,10 @@ footer .copyright-social ul li:last-child {
 .v-light .caption {
   color: #000;
 }
+.loader_q{
+  width: 30%;
+}
+
+.loader_d{
+  width: 20%;
+}
