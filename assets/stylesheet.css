@@ -12587,7 +12587,7 @@ footer .copyright-social ul li:last-child {
     font-size: 2rem;
 }
 
- .title-text-header-inner {
+ .title-text-header-inner,.title-text-header-inner img {
   width: 50%;}
   .bigger_img{
    transform: scale(1.3);

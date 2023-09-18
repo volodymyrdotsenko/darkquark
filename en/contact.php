@@ -4,24 +4,24 @@
 
 <head>
     <meta http-equiv='refresh' content='7; url=https://darkquark.eu'>
-    <!-- Required meta tags -->
+    
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="discrption" content="parallax one page" />
     <meta name="keyword"
         content="agency, business, corporate, creative, freelancer, interior, joomla template, K2 Blog, minimal, modern, multipurpose, personal, portfolio, responsive, simple" />
 
-    <!--  Title -->
-    <title>DarkQuark - twók klucz do sukcesu</title>
+    
+    <title>DarkQuark - your key to success</title>
 
-    <!-- Font Google -->
+    
    
     <link rel="stylesheet" type="text/css" href="../assets/MyFontsWebfontsKit.css">
 
     <link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="../assets/img/favicon.ico" type="image/x-icon" />
 
-    <!-- custom styles (optional) -->
+    
     <link href="../assets/plugins.css" rel="stylesheet" />
     <link href="../assets/stylesheet.css" rel="stylesheet" />
 
@@ -48,15 +48,14 @@
         </div>
     </div>
 
-    <!-- Nav Bar -->
+    
     <div class="dsn-nav-bar">
         <div class="site-header">
             <div class="extend-container">
                 <div class="inner-header">
                     <div class="main-logo">
                         <a href="index.html">
-<!--                             <img class="dark-logo" src="../assets/img/logo-dark.png" alt="" />
- -->                            <img class="light-logo" src="../assets/img/dq_bw.png" alt="" />
+                            <img class="light-logo" src="../assets/img/dq_bw.png" alt="" />
                         </a>
                     </div>
                 </div>
@@ -75,8 +74,7 @@
             <div class="header-container">
                 <div class="logo main-logo">
                     <a href="index.html">
-<!--                         <img class="dark-logo" src="../assets/img/logo-dark.png" alt="" />
- -->                        <img class="light-logo" src="../assets/img/dq_bw.png" alt="" />
+                        <img class="light-logo" src="../assets/img/dq_bw.png" alt="" />
                     </a>
                 </div>
 
@@ -113,7 +111,7 @@
             </div>
         </div>
     </div>
-    <!-- End Nav Bar -->
+    
 
     <main class="main-root">
     <div id="dsn-scrollbar">
@@ -255,7 +253,7 @@ try {
     </div>
   </main>
 
-    <!-- Wait Loader -->
+    
     <div class="wait-loader">
         <div class="loader-inner">
             <div class="loader-circle">
@@ -263,10 +261,10 @@ try {
             </div>
         </div>
     </div>
-    <!-- // Wait Loader -->
+    
 
 
-    <!-- cursor -->
+    
     <div class="cursor">
 
         <div class="cursor-helper cursor-view">
@@ -279,9 +277,9 @@ try {
 
         <div class="cursor-helper cursor-link"></div>
     </div>
-    <!-- End cursor -->
+    
 
-    <!-- Optional JavaScript -->
+    
     <script src="../assets/js/jquery-3.1.1.min.js"></script>
     <script src="../assets/js/plugins.js"></script>
     <script src="../assets/js/dsn-grid.js"></script>
