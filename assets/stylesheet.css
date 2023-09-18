@@ -12589,3 +12589,6 @@ footer .copyright-social ul li:last-child {
 
  .title-text-header-inner {
   width: 50%;}
+  .bigger_img{
+   transform: scale(1.3);
+  }
