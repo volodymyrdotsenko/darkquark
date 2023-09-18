@@ -189,7 +189,7 @@ try {
                             <div class="col-md-3 dsn-col-footer">
                                 <div class="footer-block">
                                     <div class="footer-logo">
-                                        <a href=""><img src="./assets/img/dq_fotter.png" ]position:absolute;"></a>
+                                        <a href="#"><img src="./assets/img/dq_fotter.png"></a>
                                     </div>
 
                                 </div>

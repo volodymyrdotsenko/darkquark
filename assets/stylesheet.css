@@ -12598,3 +12598,21 @@ footer .copyright-social ul li:last-child {
     font-size: 50px;
     color: #dd9a3c;
 }
+#amazon_dq .row{
+  background-color: #ae83286b;color:#fff;
+}
+.intro-content-text .exper{
+  background: #090909;
+}
+.numb-ex .word{
+  color: #dd9a3c;
+}
+.services-header h3{
+  font-size:10vh;color: #f29c33a1;
+}
+.work-container .slick-slider{
+  background: #fff;
+}
+.footer-logo a>img{
+  position:absolute;
+}
