@@ -133,7 +133,7 @@
         <div class="root-contact">
          
 
-<div class="container" style=" 
+<div class="container" ] 
                         font-size: xx-large;
                         font-weight: 400;
                         padding-bottom: 30vh;
@@ -189,7 +189,7 @@ try {
                             <div class="col-md-3 dsn-col-footer">
                                 <div class="footer-block">
                                     <div class="footer-logo">
-                                        <a href=""><img src="./assets/img/dq_fotter.png" style="position:absolute;"></a>
+                                        <a href=""><img src="./assets/img/dq_fotter.png" ]position:absolute;"></a>
                                     </div>
 
                                 </div>
